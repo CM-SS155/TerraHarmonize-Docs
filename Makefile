@@ -6,8 +6,8 @@
 SPHINXOPTS    ?=
 SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = .
-# BUILDDIR      = _build  #for sphinx local
-BUILDDIR      = $(READTHEDOCS_OUTPUT)/html  #for readthedocs
+BUILDDIR      = _build/html  #for sphinx local
+# BUILDDIR      = $(READTHEDOCS_OUTPUT)/html  #for readthedocs
 
 # Put it first so that "make" without argument is like "make help".
 help:

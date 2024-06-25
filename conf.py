@@ -9,7 +9,7 @@ import os
 import sys
 import sphinx_pdj_theme
 
-sys.path.insert(0, os.path.abspath('E:\Satsure\SAGE\codes\PYTHON\codes-part2\Packaging_class\src\TerraHarmonize'))
+# sys.path.insert(0, os.path.abspath('E:\Satsure\SAGE\codes\PYTHON\codes-part2\Packaging_class\src\TerraHarmonize'))
 
 def setup(app):
     app.add_css_file('my_style.css')
@@ -34,8 +34,8 @@ templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 
-if os.getenv('READTHEDOCS'):
-    html_build_dir = os.environ.get('READTHEDOCS_OUTPUT', '_build/html')
+# if os.getenv('READTHEDOCS'):
+#     html_build_dir = os.environ.get('READTHEDOCS_OUTPUT', '_build/html')
     # html_output_dir = os.getenv('READTHEDOCS_OUTPUT', '_build/html')
 
 # html_build_dir = os.environ.get('READTHEDOCS_OUTPUT', '_build/html')
