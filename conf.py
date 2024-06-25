@@ -26,7 +26,7 @@ extensions = ['sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.napoleon',
-    'sphinx_rtd_theme',
+    
     ]
 
 autodoc_typehints = 'none'
