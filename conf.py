@@ -41,5 +41,5 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # html_theme = 'alabaster'
 html_theme = 'sphinx_rtd_theme'
 # html_theme_path = [sphinx_pdj_theme.get_html_theme_path()]
-html_static_path = ['_static']
+# html_static_path = ['_static']
 html_show_sourcelink = False
