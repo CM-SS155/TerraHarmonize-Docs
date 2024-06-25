@@ -38,7 +38,7 @@ if os.getenv('READTHEDOCS'):
     html_build_dir = os.environ.get('READTHEDOCS_OUTPUT', '_build/html')
     # html_output_dir = os.getenv('READTHEDOCS_OUTPUT', '_build/html')
 
-html_build_dir = os.environ.get('READTHEDOCS_OUTPUT', '_build/html')
+# html_build_dir = os.environ.get('READTHEDOCS_OUTPUT', '_build/html')
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
