@@ -4,11 +4,12 @@ TerraHarmonize package
 .. Submodules
 .. ----------
 
-.. TerraHarmonize.TerraHarmonize module
-.. ------------------------------------
+TerraHarmonize
+------------------------------------
 
-.. .. automodule:: TerraHarmonize.TerraHarmonize
-..    :members:
+.. automodule:: TerraHarmonize.TerraHarmonize
+   :members:
+   :show-inheritance:
 ..    :undoc-members:
 ..    :show-inheritance:
 
@@ -17,5 +18,6 @@ Module contents
 
 .. automodule:: TerraHarmonize
    :members:
+   :show-inheritance:
    .. :undoc-members:
    :show-inheritance:
