@@ -9,15 +9,13 @@ TerraHarmonize
 
 .. automodule:: TerraHarmonize.TerraHarmonize
    :members:
+   :undoc-members:
    :show-inheritance:
-..    :undoc-members:
-..    :show-inheritance:
 
 Module contents
 ---------------
 
 .. automodule:: TerraHarmonize
    :members:
-   :show-inheritance:
-   .. :undoc-members:
+   :undoc-members:
    :show-inheritance:
